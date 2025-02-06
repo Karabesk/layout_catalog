@@ -33,14 +33,14 @@ This is possible because [we use the Parcel library](https://en.parceljs.org/scs
 ## Checklist
 
 ❗️ Replace `<your_account>` with your GitHub username and copy the links to the `Pull Request` description:
-- [DEMO LINK](https://Karabesk.github.io/layout_catalog/)
-- [TEST REPORT LINK](https://Karabesk.github.io/layout_catalog/report/html_report/)
+  - [DEMO LINK](https://Karabesk.github.io/layout_catalog/)
+  - [TEST REPORT LINK](https://Karabesk.github.io/layout_catalog/report/html_report/)
 
-❗️ Copy this `Checklist` to the `Pull Request` description after links, and put `- [x]` before each point after you checked it.
+  ❗️ Copy this `Checklist` to the `Pull Request` description after links, and put `- [x]` before each point after you checked it.
 
-- [ ] All components follow BEM and use SCSS
-- [ ] Repeated sizes and special colors are put to variables
-- [ ] Grid is used for the columns
-- [ ] Cards are shown in 1, 2, 3, or 4 columns based on screen resolution
-- [ ] All changes on `:hover` are smooth
-- [ ] Code follows all the [Code Style Rules ❗️](https://mate-academy.github.io/layout_task-guideline/html-css-code-style-rules)
+  - [ ] All components follow BEM and use SCSS
+  - [ ] Repeated sizes and special colors are put to variables
+  - [ ] Grid is used for the columns
+  - [ ] Cards are shown in 1, 2, 3, or 4 columns based on screen resolution
+  - [ ] All changes on `:hover` are smooth
+  - [ ] Code follows all the [Code Style Rules ❗️](https://mate-academy.github.io/layout_task-guideline/html-css-code-style-rules)
